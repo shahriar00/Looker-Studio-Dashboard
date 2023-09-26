@@ -7,6 +7,7 @@
 
 ## Mobile Price Data Dashboard.
 
+![mobiledashboard](https://github.com/shahriar00/Looker-Studio-Dashboard/assets/70763173/e7f564fa-2d1f-47b5-be1a-1d6fb5dc81b9)
 
 
 ## Order Placement Data Dashboard.
