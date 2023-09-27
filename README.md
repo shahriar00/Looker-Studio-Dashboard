@@ -5,7 +5,6 @@
 ![titanic_dashboard](https://github.com/shahriar00/Looker-Studio-Dashboard/assets/70763173/e9983013-7da4-4f09-835c-ba3747797ac8)
 
 
-
 ## Logistic Data Dashboad.
 
 ![logistic](https://github.com/shahriar00/Looker-Studio-Dashboard/assets/70763173/b22f1b2c-9489-491d-b2d4-dec7614293ac)
