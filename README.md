@@ -2,7 +2,8 @@
 
 ## Titanic Survivor Data Dashboard.
 
-[Titanic_Data_Dashboard.pdf](https://github.com/shahriar00/Looker-Studio-Dashboard/files/12738300/Titanic_Data_Dashboard.pdf)
+![titanic_dashboard](https://github.com/shahriar00/Looker-Studio-Dashboard/assets/70763173/e9983013-7da4-4f09-835c-ba3747797ac8)
+
 
 
 ## Logistic Data Dashboad.
